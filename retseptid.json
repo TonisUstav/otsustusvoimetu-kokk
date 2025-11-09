@@ -1,0 +1,900 @@
+[
+  {
+    "toidu_nimi": "Makaronid hakklihaga",
+    "koostisosad": [
+      "makaronid",
+      "hakkliha",
+      "sibul",
+      "küüslauk",
+      "tomatipasta",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Keeda 300 g makarone soolaga maitsestatud vees 8–10 minutit. Prae pannil 1 sl õlis 1 hakitud sibul ja 2 hakitud küüslauguküünt 3–4 minutit. Lisa 400 g hakkliha, prae pruuniks, maitsesta soola ja pipraga. Lisa 3 sl tomatipastat ja 100 ml keeduvett, hauta 5 minutit. Kurna makaronid ja sega kastmega.",
+    "tervislikkus_10_palli": 5,
+    "kalorid_kcal": 650
+  },
+  {
+    "toidu_nimi": "Kanapasta koorega",
+    "koostisosad": [
+      "makaronid",
+      "kana",
+      "küüslauk",
+      "koor",
+      "juust",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Keeda 250 g makarone soolaga vees al dente. Prae pannil 1 sl õlis 300 g tükeldatud kana 5–6 minutit. Lisa 2 hakitud küüslauguküünt, sega 1 min. Lisa 200 ml koort, keeda 2–3 minutit. Sega sisse kurnatud makaronid ja 50 g riivitud juustu, maitsesta soola-pipraga.",
+    "tervislikkus_10_palli": 4,
+    "kalorid_kcal": 700
+  },
+  {
+    "toidu_nimi": "Pelmeenid pannil",
+    "koostisosad": [
+      "pelmeenid",
+      "või",
+      "sibul",
+      "hapukoor",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 15,
+    "valmistamise_juhis": "Sulata pannil 1 sl võid, lisa 500 g külmutatud pelmeene ja 1 viilutatud sibul. Prae keskmisel kuumusel 8–10 minutit, aeg-ajalt segades. Maitsesta soola ja pipraga, serveeri 2 sl hapukoorega.",
+    "tervislikkus_10_palli": 3,
+    "kalorid_kcal": 600
+  },
+  {
+    "toidu_nimi": "Munapuder",
+    "koostisosad": [
+      "muna",
+      "piim",
+      "või",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 8,
+    "valmistamise_juhis": "Klopi kausis 4 muna 50 ml piimaga, lisa veidi soola ja pipart. Sulata pannil 1 sl võid, vala muna sisse ja sega õrnalt 3–4 minutit kuni soovitud küpsuseni.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 300
+  },
+  {
+    "toidu_nimi": "Omlett juustuga",
+    "koostisosad": [
+      "muna",
+      "juust",
+      "või",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 10,
+    "valmistamise_juhis": "Klopi 3 muna, maitsesta soola ja pipraga. Sulata pannil 1 sl võid, vala munasegu. Kui pind hakkab hüübima, puista 40 g riivitud juustu peale ja küpseta 2–3 minutit, keera kokku.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 350
+  },
+  {
+    "toidu_nimi": "Praekartulid",
+    "koostisosad": [
+      "kartul",
+      "õli",
+      "sibul",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Keeda 600 g kartuleid peaaegu pehmeks (10–12 min), jahuta ja viiluta. Prae pannil 2 sl õlis viilud kuldseks 8–10 minutit, lisa 1 hakitud sibul, maitsesta soola-pipraga.",
+    "tervislikkus_10_palli": 4,
+    "kalorid_kcal": 500
+  },
+  {
+    "toidu_nimi": "Ahjukartul kanafileega",
+    "koostisosad": [
+      "kartul",
+      "kana",
+      "õli",
+      "küüslauk",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 40,
+    "valmistamise_juhis": "Koori ja tükelda 600 g kartulit. Sega 2 sl õli, 2 hakitud küüslauguküünt, sool ja pipar. Lisa 400 g kanafileed tükkidena. Küpseta 200 °C juures 30–35 minutit, kuni kana ja kartul on küps.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 680
+  },
+  {
+    "toidu_nimi": "Riis kana ja köögiviljaga",
+    "koostisosad": [
+      "riis",
+      "kana",
+      "porgand",
+      "hernes",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Keeda 250 g riisi vastavalt pakile. Prae pannil 1 sl õlis 300 g kana 5 minutit. Lisa 1 riivitud porgand ja 150 g külmutatud hernest, küpseta 3–4 minutit. Sega sisse kurnatud riis, maitsesta.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 550
+  },
+  {
+    "toidu_nimi": "Tatrapuder hakklihaga",
+    "koostisosad": [
+      "tatar",
+      "hakkliha",
+      "sibul",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Keeda 250 g tatart soolaga 15 minutit. Prae pannil 1 sl õlis 1 hakitud sibul ja 350 g hakkliha pruuniks. Sega tatraga, maitsesta.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 520
+  },
+  {
+    "toidu_nimi": "Borš",
+    "koostisosad": [
+      "peet",
+      "porgand",
+      "kartul",
+      "sibul",
+      "kapsas",
+      "tomatipasta",
+      "puljong",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 45,
+    "valmistamise_juhis": "Kuumuta potis 1 sl õli, prae 1 hakitud sibul, 1 riivitud porgand ja 2 riivitud peeti 5 minutit. Lisa 1,2 l puljongit, 3 tükeldatud kartulit ja 200 g hakitud kapsast. Lisa 2 sl tomatipastat, keeda 25–30 minutit, maitsesta.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 350
+  },
+  {
+    "toidu_nimi": "Kanakaste riisiga",
+    "koostisosad": [
+      "kana",
+      "sibul",
+      "küüslauk",
+      "koor",
+      "õli",
+      "riis",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Keeda 200 g riisi. Prae 1 sl õlis 1 hakitud sibul ja 2 küüslauguküünt. Lisa 350 g kana, prae läbi. Vala 200 ml koort, keeda 5 minutit. Serveeri riisiga.",
+    "tervislikkus_10_palli": 5,
+    "kalorid_kcal": 700
+  },
+  {
+    "toidu_nimi": "Pannkoogid",
+    "koostisosad": [
+      "muna",
+      "piim",
+      "jahu",
+      "suhkur",
+      "sool",
+      "õli"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Sega 2 muna, 400 ml piima, 200 g jahu, 1 sl suhkrut ja näpuots soola ühtlaseks. Küpseta pannil vähese õliga õhukesed pannkoogid.",
+    "tervislikkus_10_palli": 3,
+    "kalorid_kcal": 450
+  },
+  {
+    "toidu_nimi": "Kohupiimakreem marjadega",
+    "koostisosad": [
+      "kohupiim",
+      "suhkur",
+      "vanillisuhkur",
+      "marjad"
+    ],
+    "aeg_minutites": 10,
+    "valmistamise_juhis": "Sega kausis 400 g kohupiima, 2 sl suhkrut ja 1 tl vanillisuhkrut. Lisa peale 200 g marju, sega kergelt.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 300
+  },
+  {
+    "toidu_nimi": "Võileib juustu ja singiga",
+    "koostisosad": [
+      "leib",
+      "juust",
+      "sink",
+      "või",
+      "kurk"
+    ],
+    "aeg_minutites": 5,
+    "valmistamise_juhis": "Määri 2 viilule leiba õhuke kiht võid. Lisa igaühele viil juustu, viil sinki ja viilutatud kurk.",
+    "tervislikkus_10_palli": 3,
+    "kalorid_kcal": 350
+  },
+  {
+    "toidu_nimi": "Lillkapsa-kana panniroog",
+    "koostisosad": [
+      "lillkapsas",
+      "kana",
+      "õli",
+      "küüslauk",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Tükelda 1 lillkapsapea õisikuteks. Prae 1 sl õlis 300 g kana 5 minutit. Lisa lillkapsas ja 2 hakitud küüslauguküünt, küpseta 7–8 minutit, maitsesta.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 420
+  },
+  {
+    "toidu_nimi": "Köögiviljasupp",
+    "koostisosad": [
+      "kartul",
+      "porgand",
+      "sibul",
+      "hernes",
+      "puljong",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Vala potti 1 l puljongit, lisa 3 tükeldatud kartulit, 1 tükeldatud porgand ja 1 hakitud sibul. Keeda 15 min, lisa 150 g hernest, keeda 5 min, maitsesta.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 220
+  },
+  {
+    "toidu_nimi": "Lõhe ahjus",
+    "koostisosad": [
+      "lõhe",
+      "sidrun",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Tõsta 400 g lõhefilee ahjuplaadile, nirista 1 sl õli ja 1 sl sidrunimahla. Maitsesta soola-pipraga ja küpseta 200 °C juures 12–15 minutit.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 500
+  },
+  {
+    "toidu_nimi": "Kalasupp",
+    "koostisosad": [
+      "kala",
+      "kartul",
+      "porgand",
+      "sibul",
+      "puljong",
+      "sool",
+      "pipar",
+      "till"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Keeda potis 1 l puljongit, lisa 3 tükeldatud kartulit ja 1 viilutatud porgand, keeda 10 min. Lisa 300 g kalatükke ja 1 hakitud sibul, keeda 5–6 min. Lisa hakitud till, maitsesta.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 280
+  },
+  {
+    "toidu_nimi": "Ahjuporgandid meega",
+    "koostisosad": [
+      "porgand",
+      "õli",
+      "mesi",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Koori ja lõika 600 g porgandit kangideks. Sega 1 sl õli ja 1 sl mett, maitsesta. Küpseta 200 °C juures 20–25 minutit.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 220
+  },
+  {
+    "toidu_nimi": "Praemuna",
+    "koostisosad": [
+      "muna",
+      "või",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 6,
+    "valmistamise_juhis": "Sulata pannil 1 tl võid. Löö pannile 2 muna, küpseta 2–3 minutit, maitsesta soola-pipraga.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 180
+  },
+  {
+    "toidu_nimi": "Ahjukanakoivad",
+    "koostisosad": [
+      "kana",
+      "õli",
+      "sool",
+      "pipar",
+      "paprika"
+    ],
+    "aeg_minutites": 45,
+    "valmistamise_juhis": "Määri 6 kanakoiba 1 sl õli, soola, pipra ja 1 tl paprikaga. Küpseta 200 °C juures 35–40 minutit.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 620
+  },
+  {
+    "toidu_nimi": "Lihapallid tomatikastmes",
+    "koostisosad": [
+      "hakkliha",
+      "sibul",
+      "küüslauk",
+      "muna",
+      "riivsai",
+      "tomatipasta",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Sega 400 g hakkliha, 1 muna, 3 sl riivsaia, sool ja pipar. Vormi pallid ja prae 1 sl õlis 5 min. Lisa pannile 2 sl tomatipastat ja 300 ml vett, lisa 1 hakitud sibul ja 1 küüslauk, hauta 15 min.",
+    "tervislikkus_10_palli": 5,
+    "kalorid_kcal": 650
+  },
+  {
+    "toidu_nimi": "Makaronisalat",
+    "koostisosad": [
+      "makaronid",
+      "kurk",
+      "mais",
+      "sink",
+      "majonees",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Keeda 250 g väikseid makarone, jahuta. Sega 1 hakitud kurk, 150 g maisi, 150 g sinki kuubikutena ja 3 sl majoneesi. Maitsesta.",
+    "tervislikkus_10_palli": 3,
+    "kalorid_kcal": 500
+  },
+  {
+    "toidu_nimi": "Kartulisalat",
+    "koostisosad": [
+      "kartul",
+      "kurk",
+      "muna",
+      "majonees",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Keeda 600 g kartuleid ja 3 muna, jahuta, tükelda. Lisa 1 hakitud kurk ja 3–4 sl majoneesi, maitsesta.",
+    "tervislikkus_10_palli": 4,
+    "kalorid_kcal": 520
+  },
+  {
+    "toidu_nimi": "Ahjuomlett",
+    "koostisosad": [
+      "muna",
+      "piim",
+      "juust",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Klopi 6 muna 200 ml piimaga, maitsesta. Vala võitatud vormi, puista 60 g riivjuustu. Küpseta 180 °C juures 18–20 minutit.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 380
+  },
+  {
+    "toidu_nimi": "Kapsahautis hakklihaga",
+    "koostisosad": [
+      "kapsas",
+      "hakkliha",
+      "sibul",
+      "tomatipasta",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 35,
+    "valmistamise_juhis": "Prae 1 sl õlis 1 hakitud sibul ja 400 g hakkliha. Lisa 600 g hakitud kapsast ja 2 sl tomatipastat, vala 200 ml vett. Hauta kaane all 20 minutit, maitsesta.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 480
+  },
+  {
+    "toidu_nimi": "Šnitsel pannil",
+    "koostisosad": [
+      "sea liha",
+      "muna",
+      "riivsai",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Litsesta 4 õhukest lihatükki, maitsesta. Kasta klopitud munasse ja kata riivsaiaga. Prae 2 sl õlis mõlemalt poolt kuldseks 3–4 minutit.",
+    "tervislikkus_10_palli": 3,
+    "kalorid_kcal": 700
+  },
+  {
+    "toidu_nimi": "Praekala",
+    "koostisosad": [
+      "kala",
+      "jahu",
+      "õli",
+      "sool",
+      "pipar",
+      "sidrun"
+    ],
+    "aeg_minutites": 15,
+    "valmistamise_juhis": "Maitsesta 400 g kalafileed soola-pipraga, püüra kergelt jahus. Prae 2 sl õlis mõlemalt poolt 3–4 minutit. Nirista sidrunimahlaga.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 420
+  },
+  {
+    "toidu_nimi": "Kanasalat jogurtiga",
+    "koostisosad": [
+      "kana",
+      "salat",
+      "kurk",
+      "tomat",
+      "jogurt",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 15,
+    "valmistamise_juhis": "Sega kausis 300 g küpsetatud kana tükke, hakitud salat, 1 kurk ja 2 tomatit. Lisa 150 g jogurtit, maitsesta.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 350
+  },
+  {
+    "toidu_nimi": "Hautatud porgand",
+    "koostisosad": [
+      "porgand",
+      "või",
+      "sool",
+      "suhkur"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Viiluta 600 g porgandit. Hauta potis 1 sl võiga ja 150 ml veega 12–15 minutit. Lisa näpuots soola ja 1 tl suhkrut.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 180
+  },
+  {
+    "toidu_nimi": "Riis piimaga",
+    "koostisosad": [
+      "riis",
+      "piim",
+      "suhkur",
+      "sool"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Keeda potis 1 l piima, lisa 200 g riisi, näpuots soola ja 1 sl suhkrut. Keeda tasasel tulel 20–25 minutit, sega vahel.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 320
+  },
+  {
+    "toidu_nimi": "Kaerahelbepuder",
+    "koostisosad": [
+      "kaerahelbed",
+      "piim",
+      "sool",
+      "suhkur"
+    ],
+    "aeg_minutites": 10,
+    "valmistamise_juhis": "Keeda 500 ml piima, lisa 120 g kaerahelbeid ja näpuots soola. Keeda 4–5 minutit, soovi korral lisa 1 tl suhkrut.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 250
+  },
+  {
+    "toidu_nimi": "Võileib tuunikalaga",
+    "koostisosad": [
+      "leib",
+      "tuunikala",
+      "majonees",
+      "kurk"
+    ],
+    "aeg_minutites": 7,
+    "valmistamise_juhis": "Sega 1 purk tuunikala 2 sl majoneesiga. Määri segu 2 leivaviilule, lisa viilutatud kurk.",
+    "tervislikkus_10_palli": 5,
+    "kalorid_kcal": 320
+  },
+  {
+    "toidu_nimi": "Pasta tomatikastmega",
+    "koostisosad": [
+      "makaronid",
+      "tomatipasta",
+      "küüslauk",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 15,
+    "valmistamise_juhis": "Keeda 300 g makarone. Prae 1 sl õlis 2 hakitud küüslauguküünt 30 sek. Lisa 3 sl tomatipastat ja 150 ml keeduvett, hauta 3–4 min. Sega pastaga.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 480
+  },
+  {
+    "toidu_nimi": "Kartulipuder",
+    "koostisosad": [
+      "kartul",
+      "piim",
+      "või",
+      "sool"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Keeda 800 g kartuleid soolaga 15 minutit. Kurna, tambi, lisa 50 g võid ja 150 ml kuuma piima.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 300
+  },
+  {
+    "toidu_nimi": "Läätsepada",
+    "koostisosad": [
+      "läätsed",
+      "porgand",
+      "sibul",
+      "küüslauk",
+      "tomatipasta",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Prae 1 sl õlis 1 hakitud sibul, 1 porgand ja 2 küüslauguküünt 3 min. Lisa 250 g punaseid läätsi ja 700 ml vett, 2 sl tomatipastat. Keeda 15–18 min, maitsesta.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 380
+  },
+  {
+    "toidu_nimi": "Kukeseenekaste",
+    "koostisosad": [
+      "seened",
+      "sibul",
+      "või",
+      "koor",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Puhasta 300 g seeni. Prae 1 sl võis koos 1 hakitud sibulaga 5 min. Lisa 200 ml koort, keeda 3–4 minutit, maitsesta.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 420
+  },
+  {
+    "toidu_nimi": "Praad hakklihaga ja kapsaga",
+    "koostisosad": [
+      "hakkliha",
+      "kapsas",
+      "sibul",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Prae 1 sl õlis 1 sibul ja 400 g hakkliha pruuniks. Lisa 500 g hakitud kapsast, küpseta 8–10 minutit. Maitsesta.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 520
+  },
+  {
+    "toidu_nimi": "Nisupudru võiga",
+    "koostisosad": [
+      "manna",
+      "piim",
+      "suhkur",
+      "või",
+      "sool"
+    ],
+    "aeg_minutites": 12,
+    "valmistamise_juhis": "Keeda 600 ml piima, lisa peene vihmana 120 g mannat, sega 5–6 minutit. Maitsesta 1 tl suhkru ja näpuots soolaga, lisa 1 tl võid.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 300
+  },
+  {
+    "toidu_nimi": "Ahjubanaan kaneeliga",
+    "koostisosad": [
+      "banaan",
+      "mesi",
+      "kaneel"
+    ],
+    "aeg_minutites": 12,
+    "valmistamise_juhis": "Poolita 2 banaani pikuti, nirista 1 sl mett ja puista veidi kaneeli. Küpseta 180 °C juures 8–10 minutit.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 220
+  },
+  {
+    "toidu_nimi": "Kanasupp nuudlitega",
+    "koostisosad": [
+      "kana",
+      "puljong",
+      "nuudlid",
+      "porgand",
+      "sibul",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 25,
+    "valmistamise_juhis": "Keeda 1 l puljongit. Lisa 200 g tükeldatud kana, 1 viilutatud porgand ja 1 hakitud sibul, keeda 10 min. Lisa 120 g nuudleid ja keeda 5 minutit, maitsesta.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 320
+  },
+  {
+    "toidu_nimi": "Lillkapsas juustuga ahjus",
+    "koostisosad": [
+      "lillkapsas",
+      "juust",
+      "koor",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Keeda lillkapsaõisikuid 3 minutit, nõruta. Laota vormi, vala peale 150 ml koort ja puista 70 g riivjuustu. Küpseta 200 °C juures 15–18 minutit.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 420
+  },
+  {
+    "toidu_nimi": "Hakklihakaste kartuliga",
+    "koostisosad": [
+      "hakkliha",
+      "sibul",
+      "jahu",
+      "piim",
+      "või",
+      "sool",
+      "pipar",
+      "kartul"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Keeda 700 g kartuleid. Prae 1 sl võis 1 sibul ja 400 g hakkliha. Lisa 1 sl jahu, sega. Vala 300 ml piima, keeda 5 minutit. Serveeri kartuliga.",
+    "tervislikkus_10_palli": 5,
+    "kalorid_kcal": 680
+  },
+  {
+    "toidu_nimi": "Tomati-kurgi salat",
+    "koostisosad": [
+      "tomat",
+      "kurk",
+      "sibul",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 8,
+    "valmistamise_juhis": "Viiluta 3 tomatit, 1 kurk ja 1 väike sibul. Nirista 1 sl õli, maitsesta soola-pipraga, sega.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 120
+  },
+  {
+    "toidu_nimi": "Kanafilee pannil",
+    "koostisosad": [
+      "kana",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 12,
+    "valmistamise_juhis": "Maitsesta 2 kanafileed soola ja pipraga. Prae 1 sl õlis keskmisel kuumusel 5–6 minutit kummaltki poolt.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 320
+  },
+  {
+    "toidu_nimi": "Praetud riis",
+    "koostisosad": [
+      "riis",
+      "muna",
+      "porgand",
+      "hernes",
+      "õli",
+      "soja",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Keeda ja jahuta 300 g riisi. Prae 1 sl õlis 2 klopitud muna, lõhu tükiks. Lisa 1 riivitud porgand ja 150 g hernest, lisa riis, 1 sl soja, maitsesta.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 520
+  },
+  {
+    "toidu_nimi": "Kartul kana ja juustuga",
+    "koostisosad": [
+      "kartul",
+      "kana",
+      "juust",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 35,
+    "valmistamise_juhis": "Laota vormi 600 g viilutatud kartulit ja 350 g kana. Nirista 1 sl õli, maitsesta. Kata 70 g riivjuustuga ja küpseta 200 °C juures 25–30 minutit.",
+    "tervislikkus_10_palli": 5,
+    "kalorid_kcal": 720
+  },
+  {
+    "toidu_nimi": "Pasta tuunikalaga",
+    "koostisosad": [
+      "makaronid",
+      "tuunikala",
+      "sibul",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 15,
+    "valmistamise_juhis": "Keeda 300 g makarone. Prae 1 sl õlis 1 hakitud sibul 3 min, lisa 1 purk tuunikala ja 50 ml keeduvett, sega pastaga, maitsesta.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 520
+  },
+  {
+    "toidu_nimi": "Riisi-porgandi hautis",
+    "koostisosad": [
+      "riis",
+      "porgand",
+      "õli",
+      "sool"
+    ],
+    "aeg_minutites": 20,
+    "valmistamise_juhis": "Prae potis 1 sl õlis 2 riivitud porgandit 2 min. Lisa 200 g riisi ja 450 ml vett, sool. Keeda tasasel tulel 15 minutit.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 300
+  },
+  {
+    "toidu_nimi": "Kodujuustu-salat",
+    "koostisosad": [
+      "kodujuust",
+      "kurk",
+      "tomat",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 7,
+    "valmistamise_juhis": "Sega 300 g kodujuustu kuubikuteks lõigatud kurgi ja tomatiga, maitsesta soola-pipraga.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 220
+  },
+  {
+    "toidu_nimi": "Makaroni-juustu vorm",
+    "koostisosad": [
+      "makaronid",
+      "juust",
+      "piim",
+      "või",
+      "jahu",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Keeda 300 g makarone. Sulata potis 30 g võid, lisa 1 sl jahu, sega. Vala 300 ml piima, keeda 2–3 min. Sega sisse 100 g riivjuustu. Vala pastale ja küpseta 200 °C juures 10 min.",
+    "tervislikkus_10_palli": 4,
+    "kalorid_kcal": 720
+  },
+  {
+    "toidu_nimi": "Köögivilja-wok",
+    "koostisosad": [
+      "porgand",
+      "brokoli",
+      "pipar",
+      "sibul",
+      "õli",
+      "soja",
+      "küüslauk"
+    ],
+    "aeg_minutites": 15,
+    "valmistamise_juhis": "Prae kuumal pannil 1 sl õlis viilutatud köögiviljad (u 500 g) 5–6 min. Lisa 2 hakitud küüslauguküünt ja 1 sl soja, sega.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 260
+  },
+  {
+    "toidu_nimi": "Hernesupp",
+    "koostisosad": [
+      "hernes",
+      "kartul",
+      "porgand",
+      "sibul",
+      "puljong",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 40,
+    "valmistamise_juhis": "Vala potti 1,2 l puljongit, lisa 250 g kuivatatud leotatud hernest või 400 g külmutatud hernest, 2 kartulit, 1 porgand, 1 sibul. Keeda pehmeks, maitsesta.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 320
+  },
+  {
+    "toidu_nimi": "Muna-juustu võileib",
+    "koostisosad": [
+      "leib",
+      "muna",
+      "juust",
+      "või"
+    ],
+    "aeg_minutites": 10,
+    "valmistamise_juhis": "Keeda 2 muna 8 minutit, jahuta ja viiluta. Määri 2 leivaviilu võiga, aseta peale munaviilud ja juust.",
+    "tervislikkus_10_palli": 4,
+    "kalorid_kcal": 380
+  },
+  {
+    "toidu_nimi": "Kana riivleivaga ahjus",
+    "koostisosad": [
+      "kana",
+      "riivsai",
+      "muna",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Kasta kanatükid klopitud munasse ja veereta riivsaias. Laota plaadile, nirista veidi õli. Küpseta 200 °C juures 20–22 minutit.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 520
+  },
+  {
+    "toidu_nimi": "Ahjuköögiviljad",
+    "koostisosad": [
+      "kartul",
+      "porgand",
+      "sibul",
+      "brokoli",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 35,
+    "valmistamise_juhis": "Tükelda 800 g köögivilju, sega 2 sl õliga, maitsesta. Küpseta 200 °C juures 25–30 minutit.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 260
+  },
+  {
+    "toidu_nimi": "Pannil praetud sealiha",
+    "koostisosad": [
+      "sea liha",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 15,
+    "valmistamise_juhis": "Maitsesta 400 g sealiha viile soola-pipraga. Prae 1–2 sl õlis 3–4 minutit kummaltki poolt.",
+    "tervislikkus_10_palli": 3,
+    "kalorid_kcal": 650
+  },
+  {
+    "toidu_nimi": "Kanaseljanka lihtne",
+    "koostisosad": [
+      "kana",
+      "kurk",
+      "tomatipasta",
+      "sibul",
+      "puljong",
+      "oliiv",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Prae 1 sl õlis 1 sibul 3 minutit. Lisa 1 sl tomatipastat, 1,2 l puljongit, 300 g kana kuubikuid ja 1 hakitud kurk. Keeda 15 min, lisa peotäis oliive, maitsesta.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 360
+  },
+  {
+    "toidu_nimi": "Kohupiimavorm",
+    "koostisosad": [
+      "kohupiim",
+      "muna",
+      "suhkur",
+      "manna",
+      "piim",
+      "või"
+    ],
+    "aeg_minutites": 35,
+    "valmistamise_juhis": "Sega 500 g kohupiima, 2 muna, 3 sl suhkrut, 3 sl mannat ja 100 ml piima. Vala võitatud vormi, täpi 1 tl võid. Küpseta 180 °C juures 25–30 minutit.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 420
+  },
+  {
+    "toidu_nimi": "Kanasousti kiire",
+    "koostisosad": [
+      "kana",
+      "sibul",
+      "koor",
+      "õli",
+      "sool",
+      "pipar"
+    ],
+    "aeg_minutites": 18,
+    "valmistamise_juhis": "Pruunista pannil 1 sl õlis 1 hakitud sibul 2 minutit. Lisa 350 g kana, prae 5–6 minutit. Vala 200 ml koort, keeda 3–4 minutit, maitsesta.",
+    "tervislikkus_10_palli": 6,
+    "kalorid_kcal": 520
+  }
+]
