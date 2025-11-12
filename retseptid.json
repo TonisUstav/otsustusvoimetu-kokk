@@ -896,5 +896,51 @@
     "valmistamise_juhis": "Pruunista pannil 1 sl õlis 1 hakitud sibul 2 minutit. Lisa 350 g kana, prae 5–6 minutit. Vala 200 ml koort, keeda 3–4 minutit, maitsesta.",
     "tervislikkus_10_palli": 6,
     "kalorid_kcal": 520
+  },
+  {
+    "toidu_nimi": "Kanaomlett juustuga",
+    "koostisosad": [
+      "kana",
+      "muna",
+      "juust",
+      "õli",
+      "sool",
+      "piim",
+      "pipar"
+    ],
+    "aeg_minutites": 15,
+    "valmistamise_juhis": "Prae kana, lisa muna ja piima segu ning juust, küpseta madalal kuumusel kuni valmis.",
+    "tervislikkus_10_palli": 8,
+    "kalorid_kcal": 340
+  },
+  {
+    "toidu_nimi": "Valgu rikas tuunikalasalat",
+    "koostisosad": [
+      "purk tuunikala", 
+      "kurk", 
+      "tomat", 
+      "mais", 
+      "sool", 
+      "pipar"
+    ],
+    "aeg_minutites": 5,
+    "valmistamise_juhis": "Haki köögiviljad, sega tuunikala ja maisiga. Maitsesta soola ja pipraga.",
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 300
+  },
+  {
+    "toidu_nimi": "Veiseliha-taco kausis",
+    "koostisosad": [
+      "hakkliha", 
+      "paprika", 
+      "sibul", 
+      "salatilehed", 
+      "mais", 
+      "tacokaste"
+    ],
+    "aeg_minutites": 30,
+    "valmistamise_juhis": "Pruunista hakkliha ja köögiviljad, serveeri kausis salatilehtede ja tacokastmega.",
+    "tervislikkus_10_palli": 7,
+    "kalorid_kcal": 530
   }
 ]
