@@ -11,15 +11,16 @@ with open(retsept, "r", encoding="utf-8") as f:
 
 #FUNKTSIOONID
 
+#külmkapi toiduainete lisamine
 def lisa_toiduaine():
-    tekst = sisestus.get().strip()  # võtab teksti sisestusväljast
-    if tekst and tekst not in toiduained:  # kui pole tühi
+    tekst = sisestus.get().strip()  
+    if tekst and tekst not in toiduained:  
         toiduained.append(tekst)
         with open(kapp, "w", encoding="UTF-8") as f:
             json.dump(toiduained, f, ensure_ascii=False, indent=2)
         loend.insert(tk.END, tekst)
-        print(toiduained)  # näitame terminalis kapisisu
-        sisestus.delete(0, tk.END)  # tühjendab sisestusvälja
+        print(toiduained) 
+        sisestus.delete(0, tk.END)  
 
 def eemalda_toiduaine():  #toiduainete eemaldamine
     valik = loend.curselection()
