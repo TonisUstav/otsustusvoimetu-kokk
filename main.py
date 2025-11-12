@@ -21,7 +21,7 @@ def lisa_toiduaine():
         print(toiduained)  # näitame terminalis kapisisu
         sisestus.delete(0, tk.END)  # tühjendab sisestusvälja
 
-def eemalda_toiduaine():
+def eemalda_toiduaine():  #toiduainete eemaldamine
     valik = loend.curselection()
     if valik:
         index = valik[0]
@@ -37,7 +37,7 @@ def soovita_retsept():
 
     # filtreeri retseptid aja ja tervise järgi
     sobivad = []
-    for r in retseptid:
+    for r in retseptid:  #lisab uude listi kõik retseptid, mis sobivad valitud tingimustele(kui tekib vastuolu tingimusega siis tuleb continue ja võtab uue retsepti)
         # aeg filter
         if aeg == "Kiire (≤10 min)" and r["aeg_minutites"] > 10:
             continue
@@ -71,7 +71,7 @@ def soovita_retsept():
 
         retsept = random.choice(parimad)  # vali juhuslikult parimate seast
 
-        # kuvamine (sinu võtmetega)
+        # kuvamine
         retsepti_nimi.config(text=retsept["toidu_nimi"])
         retsepti_sisu.config(
             text=f"Koostisosad: {', '.join(retsept['koostisosad'])}\n\n"
@@ -110,7 +110,7 @@ aken.geometry("800x500")
 vasak_raam = tk.Frame(aken, bg="#f0f0f0", padx=10, pady=10, borderwidth=2, relief="solid")
 vasak_raam.pack(side="left", fill="y")
 
-silt = tk.Label(vasak_raam, text="Siia tulevad toiduained", bg="lightblue")
+silt = tk.Label(vasak_raam, text="Lisa toiduaineid", font="bold", bg="lightblue")
 silt.pack(pady=20, padx=10)
 
 sisestus = tk.Entry(vasak_raam, width=25)
@@ -126,21 +126,25 @@ eemalda_nupp.pack(padx=10, pady=(0,10))
 
 loend = tk.Listbox(vasak_raam, width=25, height=10)
 loend.pack(padx=10, pady=(0,10))
+
+#kapi toiduainete kuvamine
 for aine in toiduained:
     loend.insert(tk.END, aine)
 
-
+#parem pool UI-st
 parem_raam = tk.Frame(aken, padx=10, pady=10, borderwidth=2, relief="solid")
 parem_raam.pack(side="right", fill="both", expand=True)
 
-retsepti_nimi = tk.Label(parem_raam, text="(siia tuleb retsepti nimi)", font=("Arial", 14, "bold"), anchor="w", justify="left")
+retsepti_nimi = tk.Label(parem_raam, text="Sisesta enda külmkapi sisu ja siis jätkame!", font=("Arial", 14, "bold"), anchor="w", justify="left")
 retsepti_nimi.pack(fill="x", pady=(0,8))
 
-retsepti_sisu = tk.Label(parem_raam, text="(siia tulevad koostisosad ja juhis)", anchor="nw", justify="left")
+retsepti_sisu = tk.Label(parem_raam, text="", anchor="nw", justify="left")
 retsepti_sisu.pack(fill="both", expand=True)
 
 soovita_nupp = tk.Button(vasak_raam, text="Soovita retsepti", width=18, command=soovita_retsept)
 soovita_nupp.pack(padx=10, pady=(0,10))
+
+#Aja ja tervislikkuse filtrid
 
 aeg_label = ttk.Label(vasak_raam, text="Vali tegemise aeg:")
 aeg_label.pack(anchor="w", padx=10)
