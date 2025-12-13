@@ -916,11 +916,11 @@
   {
     "toidu_nimi": "Valgu rikas tuunikalasalat",
     "koostisosad": [
-      "purk tuunikala", 
-      "kurk", 
-      "tomat", 
-      "mais", 
-      "sool", 
+      "purk tuunikala",
+      "kurk",
+      "tomat",
+      "mais",
+      "sool",
       "pipar"
     ],
     "aeg_minutites": 5,
@@ -931,16 +931,47 @@
   {
     "toidu_nimi": "Veiseliha-taco kausis",
     "koostisosad": [
-      "hakkliha", 
-      "paprika", 
-      "sibul", 
-      "salatilehed", 
-      "mais", 
+      "hakkliha",
+      "paprika",
+      "sibul",
+      "salatilehed",
+      "mais",
       "tacokaste"
     ],
     "aeg_minutites": 30,
     "valmistamise_juhis": "Pruunista 300 g hakkliha ja 1 paprika ja 1 sibul koos maisiga, serveeri kausis salatilehtede ja tacokastmega.",
     "tervislikkus_10_palli": 7,
     "kalorid_kcal": 530
+  },
+  {
+    "toidu_nimi": "kassitoit",
+    "koostisosad": [
+      "kass"
+    ],
+    "aeg_minutites": 10,
+    "tervislikkus_10_palli": 1,
+    "kalorid_kcal": 1000,
+    "valmistamise_juhis": "kiisumiisu"
+  },
+  {
+    "toidu_nimi": "auh",
+    "koostisosad": [
+      "kutsu",
+      "kont"
+    ],
+    "aeg_minutites": 1,
+    "tervislikkus_10_palli": 1,
+    "kalorid_kcal": 1,
+    "valmistamise_juhis": "oih"
+  },
+  {
+    "toidu_nimi": "või",
+    "koostisosad": [
+      "või"
+    ],
+    "aeg_minutites": 1,
+    "tervislikkus_10_palli": 1,
+    "kalorid_kcal": 1,
+    "valmistamise_juhis": "või"
   }
 ]
