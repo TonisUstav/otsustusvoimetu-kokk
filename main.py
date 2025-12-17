@@ -108,13 +108,12 @@ def soovita_retsept():
 
         def kattuvus(r):
             return sum(1 for i in r["koostisosad"] if i.strip().lower() in kapp_set)
-
-        # loome listi (skoor, retsept)
+        
+        #koostab top5 parima kattuvusega retseptid
         skoorid = [(kattuvus(r), r) for r in sobivad]
-        max_skoor = max(s for s, _ in skoorid)  # parim kattuvus
-        parimad = [r for s, r in skoorid if s == max_skoor]  # kõik, millel sama parim tulemus
-
-        retsept = random.choice(parimad)  # vali juhuslikult parimate seast
+        skoorid.sort(key=lambda x: x[0], reverse=True)
+        top5 = [r for s, r in skoorid[:5]]
+        retsept = random.choice(top5)
 
         # kuvamine
         retsepti_nimi.config(text=retsept["toidu_nimi"])
@@ -200,7 +199,7 @@ def lisa_retsept():
     kcal_str = kalorid_sisestus.get().strip()
     juhis = juhis_text.get("1.0", "end").strip()
 
-
+    #kontroll kas koik lahtrid on täidetud korrektselt
     if not (nimi and koost_str and aeg_str and terv_str and kcal_str and juhis):
         
         try:

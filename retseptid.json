@@ -973,5 +973,25 @@
     "tervislikkus_10_palli": 1,
     "kalorid_kcal": 1,
     "valmistamise_juhis": "või"
+  },
+  {
+    "toidu_nimi": "juust2",
+    "koostisosad": [
+      "ajsjasi"
+    ],
+    "aeg_minutites": 2,
+    "tervislikkus_10_palli": 9,
+    "kalorid_kcal": 200,
+    "valmistamise_juhis": "juuuuuust"
+  },
+  {
+    "toidu_nimi": "fddf",
+    "koostisosad": [
+      "dffdfd"
+    ],
+    "aeg_minutites": 111111,
+    "tervislikkus_10_palli": 1,
+    "kalorid_kcal": 1,
+    "valmistamise_juhis": "fdfddfdfdf"
   }
 ]
